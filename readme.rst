@@ -9,8 +9,8 @@ Informações
 *******************
 
 Este repositório contém código desenvolvido com a versão 3.1.1 do Codeigniter. Para baixar o
-última versão estável, visite o `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+última versão estável, visite o página `CodeIgniter Downloads
+<https://codeigniter.com/download>`_.
 
 *******************
 Requisitos do servidor
